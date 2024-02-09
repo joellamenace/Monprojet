@@ -1,0 +1,23 @@
+.bon{
+  height: 300px;
+  width: 100%;
+  background-color: darkred;
+  padding-right: 10%;
+}
+.go{
+  height: 500px;
+  width: 50%;
+  background-color: blue;
+  padding:20px;
+}
+.pap{
+  height: 500px;
+  width: 50%;
+  background-color: greenyellow;
+  padding-left: 5%;
+}
+.nono{
+  display: flex;
+  margin-left: 5% ;
+}
+
